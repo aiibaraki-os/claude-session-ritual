@@ -17,6 +17,16 @@ AI sessions have no "tomorrow." Everything you decided yesterday is gone unless 
 
 The sign that it works: the next time you open Claude Code, it starts by telling you where you left off.
 
+## Waiting for Claude Duet?
+
+On October 21, 2026, Anthropic announced Claude Duet: an agent that sends you a morning brief and messages you when something needs your attention. It is starting with Pro and Max users in the US, through a waitlist.
+
+If Duet hasn't reached you yet, you can start the same daily rhythm today with Claude Code. The two rituals in this repository are the first step: Claude opens each session with where you left off, and closes with one line for next time.
+
+When Duet does reach you, nothing you set up here is wasted. Duet carries over the memory and skills in your Claude account, so the rules you write now come with you: what Claude may do without asking, which numbers it must never make up, and when a project should stop.
+
+*This repository is not affiliated with Anthropic. Claude and Claude Duet are Anthropic products.*
+
 ## Where these come from
 
 These are 2 of the 8 parts of a personal AI system we have run every day for 15 months. Every part was kept or rewritten based on what actually failed. The examples in the failure log come from that real log, with identifying details removed.
