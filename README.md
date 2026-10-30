@@ -17,6 +17,16 @@ AI sessions have no "tomorrow." Everything you decided yesterday is gone unless 
 
 The sign that it works: the next time you open Claude Code, it starts by telling you where you left off.
 
+## Prefer a skill? (claude.ai, about 2 minutes)
+
+The same two habits are also packaged as an [Agent Skill](https://agentskills.io/specification): the folder [`session-rituals/`](session-rituals/) holds one `SKILL.md`.
+
+1. Download this repository and zip the `session-rituals` folder itself, so the folder is the root of the ZIP (not its contents).
+2. In claude.ai, open Customize > Skills, upload the ZIP, and turn the skill on. (Anthropic's guide: https://support.claude.com/en/articles/12512198-how-to-create-custom-skills)
+3. In a project folder, keep `notes.md` and `failure-log.md` from [`examples/`](examples/). The skill reads and updates them.
+
+Skills are an open format, so the same folder also works in other tools that support Agent Skills.
+
 Want to know why each line is there? [`rituals.md`](rituals.md) and [`failure-log.md`](failure-log.md) explain them, with real examples.
 
 ## Waiting for Claude Duet?
