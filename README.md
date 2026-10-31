@@ -10,6 +10,19 @@ AI sessions have no "tomorrow." Everything you decided yesterday is gone unless 
 | [`failure-log.md`](failure-log.md) | Turns each AI mistake into a one-line record, and then into a rule, so it stops happening |
 | [`examples/`](examples/) | Three ready-to-copy files (`CLAUDE.md`, `notes.md`, and a blank `failure-log.md`), so both habits run from your next session |
 
+## What your next session looks like
+
+Without the rituals, a new session starts blank:
+
+> **You:** Where were we?
+> **Claude:** I don't have any context from earlier sessions. Could you fill me in?
+
+With them, it starts like this:
+
+> **Claude:** Last time's note: "Landing page copy approved; next step is the pricing section." You have 2 open promises (one is due Friday). Want to start with the pricing section?
+
+The only difference is one short file the AI reads first and writes to last. (The wording above is an illustration, not a recording. Your notes will be your own.)
+
 ## Quick start (about 30 seconds)
 
 1. Copy the three files in [`examples/`](examples/) into your project folder: [`CLAUDE.md`](examples/CLAUDE.md), [`notes.md`](examples/notes.md), and [`failure-log.md`](examples/failure-log.md).
