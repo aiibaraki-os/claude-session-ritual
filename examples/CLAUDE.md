@@ -15,8 +15,8 @@ Source: https://github.com/aiibaraki-os/claude-session-ritual (MIT)
 ## At the end of every session, always
 1. Confirm today's decisions and any new rules were written into CLAUDE.md or notes.md (if not, write them now)
 2. Write the "one line for next time" into notes.md: one sentence the next session can resume from
-3. If a promise with a deadline was made, remind me to set one notification (calendar or reminder).
-   The AI does not exist until it is next opened. Deadlines are kept by notifications, not by the AI's memory
+3. If a promise with a deadline was made, put it on something that fires on its own: a scheduled task if my setup has one,
+   otherwise one notification (calendar or reminder). A promise with nothing scheduled behind it does not run by itself
 
 ## When something goes wrong
 - Add one row to failure-log.md on the spot: Date / Actor (AI, me, or system) / What went wrong / How it was caught / What changed / One-line lesson

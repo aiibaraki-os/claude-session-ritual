@@ -9,7 +9,7 @@ metadata:
 
 # Session rituals
 
-AI sessions have no "tomorrow." Only files and notifications remember. This skill keeps two small files in the project folder and reads them back every time:
+Memory and auto-loaded instructions carry a lot between sessions. What still slips is the handoff: which decision is current, what was promised and by when. This skill keeps that in two small files in the project folder that any session, any tool, and the user can read, and reads them back every time:
 
 - `notes.md`: the handoff note (one line for next time, open promises, dated decisions)
 - `failure-log.md`: one row per mistake, turned into a rule when the same pattern shows up twice
@@ -28,7 +28,7 @@ Keep the opening report to a few lines. If it is always "all clear," suggest swa
 
 1. Check that today's decisions and any new rules are written into `CLAUDE.md` or `notes.md`. If not, write them now.
 2. Write one sentence into `notes.md` under "One line for next time" that the next session can resume from.
-3. If a promise with a deadline was made, remind the user to set one notification (calendar or reminder app). The AI does not exist until it is opened again; deadlines are kept by notifications, not by the AI's memory.
+3. If a promise with a deadline was made, put it on something that fires on its own: a scheduled task if the user's setup has one, otherwise remind the user to set one notification (calendar or reminder app). A promise with nothing scheduled behind it does not run by itself.
 
 If the user closes the window without this, the next opening catches it: the first job is to check what last time left unwritten.
 
