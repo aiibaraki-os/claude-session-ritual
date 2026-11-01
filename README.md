@@ -12,16 +12,16 @@ Claude can carry a lot between sessions now: memory, a `CLAUDE.md` it reads at t
 
 ## What your next session looks like
 
-Without the rituals, a new session starts blank:
+Without the rituals, a new session remembers the topic but not the handoff:
 
 > **You:** Where were we?
-> **Claude:** I don't have any context from earlier sessions. Could you fill me in?
+> **Claude:** We were working on your landing page. Which part would you like to continue with?
 
 With them, it starts like this:
 
 > **Claude:** Last time's note: "Landing page copy approved; next step is the pricing section." You have 2 open promises (one is due Friday). Want to start with the pricing section?
 
-The only difference is one short file the AI reads first and writes to last. (The wording above is an illustration, not a recording. Your notes will be your own.)
+The difference is one short file the AI reads first and writes to last: it carries which decision is current and what is still open, not just the topic. (The wording above is an illustration, not a recording. Your notes will be your own.)
 
 ## Quick start (about 30 seconds)
 
