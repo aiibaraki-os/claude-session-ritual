@@ -2,7 +2,7 @@
 
 **Two small habits that make Claude pick up where you left off, and stop repeating the same mistake.**
 
-AI sessions have no "tomorrow." Everything you decided yesterday is gone unless something writes it down and something reads it back. These two free parts do exactly that. Set them up in about 30 seconds, with no installs and no code.
+Claude can carry a lot between sessions now: memory, a `CLAUDE.md` it reads at the start of every session, even scheduled tasks. What still slips is the handoff itself: which decision is current, what was promised and by when, and which mistake already happened twice. These two free parts keep that in plain files that every session, every tool, and you can read. Set them up in about 30 seconds, with no installs and no code.
 
 | File | What it does for you |
 |---|---|

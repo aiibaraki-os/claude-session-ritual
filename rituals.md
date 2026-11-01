@@ -4,7 +4,7 @@
 
 You can write great instructions for your AI, but **without a trigger to read them, they're wallpaper.** This part pins two small rituals to the start and the end of every session, so the system runs itself.
 
-It came from a real incident. Our AI promised "daily progress starting tomorrow." **Because nothing existed to start the next day, nothing moved for 13 days.** An AI that lives in sessions has no "tomorrow." It has only "now" and "the next time you open it," and the rituals sit on exactly those two points.
+It came from a real incident. Our AI promised "daily progress starting tomorrow." **Because nothing existed to start the next day, nothing moved for 13 days.** The work itself was within the AI's reach; what was missing was anything that would start it. A promise with nothing scheduled behind it has no "tomorrow." The rituals sit on the two points that always happen, the start and the end of a session, and item 3 below puts every deadline on something that fires by itself.
 
 ## The opening ritual (Claude does it, about 30 seconds)
 
@@ -30,11 +30,11 @@ Paste into CLAUDE.md:
 1. Confirm today's decisions and any new rules were written into CLAUDE.md or notes.md (if not, write them now)
 2. Write the "one line for next time" into notes.md: one sentence the next session can resume from
    (e.g., "Continue the blog plan. Check last week's reader count, then decide whether to keep going")
-3. If a promise with a deadline was made, remind me to set one notification (calendar or reminder).
-   The AI does not exist until it is next opened. Deadlines are kept by notifications, not by the AI's memory
+3. If a promise with a deadline was made, put it on something that fires on its own: a scheduled task if my setup has one,
+   otherwise one notification (calendar or reminder). A promise with nothing scheduled behind it does not run by itself
 ```
 
-**Item 3 is the easiest rule here to break.** "The AI will remember" fails you every time. The only things that remember are files and notifications.
+**Item 3 is the easiest rule here to break.** Remembering a promise is not the same as acting on it at the right time. If nothing is scheduled to fire, nothing starts, however good the memory is.
 
 ## The weekly review (5 minutes, pinned somewhere in your weekend)
 
