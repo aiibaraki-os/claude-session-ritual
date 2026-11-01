@@ -4,6 +4,8 @@
 
 Claude can carry a lot between sessions now: memory, a `CLAUDE.md` it reads at the start of every session, even scheduled tasks. What still slips is the handoff itself: which decision is current, what was promised and by when, and which mistake already happened twice. These two free parts keep that in plain files that every session, every tool, and you can read. Set them up in about 30 seconds, with no installs and no code.
 
+Both habits also come as an [Agent Skill](https://agentskills.io), an open format that [many AI tools support](https://agentskills.io/clients), so the same folder is not tied to one product. See [Prefer a skill?](#prefer-a-skill-claudeai-about-2-minutes) below.
+
 | File | What it does for you |
 |---|---|
 | [`rituals.md`](rituals.md) | Every session opens with "here's where we left off" and closes with "one line for next time" |
