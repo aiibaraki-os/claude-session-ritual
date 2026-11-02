@@ -11,6 +11,7 @@ Both habits also come as an [Agent Skill](https://agentskills.io), an open forma
 | [`rituals.md`](rituals.md) | Every session opens with "here's where we left off" and closes with "one line for next time" |
 | [`failure-log.md`](failure-log.md) | Turns each AI mistake into a one-line record, and then into a rule, so it stops happening |
 | [`examples/`](examples/) | Three ready-to-copy files (`CLAUDE.md`, `notes.md`, and a blank `failure-log.md`), so both habits run from your next session |
+| [`examples/stop-line.md`](examples/stop-line.md) | An optional one-page sheet: decide when a project stops before you start it, and have Claude tell you how far away the next gate is |
 
 ## What your next session looks like
 
